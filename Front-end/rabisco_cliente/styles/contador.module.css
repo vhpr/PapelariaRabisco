@@ -1,0 +1,25 @@
+.background{
+    background-color: #8a8102;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+}
+
+.texto{
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 20vh;
+
+}
+
+.img{
+    width: 300px;
+    height: auto;
+    margin: 0 30vw 15vh 30vw;
+}
